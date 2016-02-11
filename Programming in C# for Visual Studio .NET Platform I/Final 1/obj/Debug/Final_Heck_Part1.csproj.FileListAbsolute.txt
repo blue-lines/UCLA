@@ -1,0 +1,6 @@
+C:\Day 10\Test_application\Final_Heck_Part1\bin\Debug\Final_Heck_Part1.exe.config
+C:\Day 10\Test_application\Final_Heck_Part1\bin\Debug\Final_Heck_Part1.exe
+C:\Day 10\Test_application\Final_Heck_Part1\bin\Debug\Final_Heck_Part1.pdb
+C:\Day 10\Test_application\Final_Heck_Part1\obj\Debug\Final_Heck_Part1.csprojResolveAssemblyReference.cache
+C:\Day 10\Test_application\Final_Heck_Part1\obj\Debug\Final_Heck_Part1.exe
+C:\Day 10\Test_application\Final_Heck_Part1\obj\Debug\Final_Heck_Part1.pdb

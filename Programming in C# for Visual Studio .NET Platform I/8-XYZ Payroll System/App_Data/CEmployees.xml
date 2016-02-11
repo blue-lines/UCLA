@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+	<cemployees>
+		<cemployee>
+			<EmployeeID>Emp ID 4</EmployeeID>
+			<Firstname>James</Firstname>
+			<Lastname>Hill</Lastname>
+			<Hiredate>07/05/2008</Hiredate>
+			<Grosssales>23000</Grosssales>
+			<Basesalary>1500</Basesalary>
+			<Commissionrate>0.045</Commissionrate>
+		</cemployee>
+		<cemployee>
+			<EmployeeID>Emp ID 8</EmployeeID>
+			<Firstname>Donna</Firstname>
+			<Lastname>Sanchez</Lastname>
+			<Hiredate>11/15/2004</Hiredate>
+			<Grosssales>34000</Grosssales>
+			<Basesalary>1700</Basesalary>
+			<Commissionrate>0.052</Commissionrate>
+		</cemployee>
+</cemployees>
+ 

@@ -1,0 +1,5 @@
+c:\users\julien\documents\visual studio 2013\Projects\VehicleInheritance _HeckJulien\VehicleInheritance _HeckJulien\bin\Debug\VehicleInheritance _HeckJulien.exe
+c:\users\julien\documents\visual studio 2013\Projects\VehicleInheritance _HeckJulien\VehicleInheritance _HeckJulien\bin\Debug\VehicleInheritance _HeckJulien.pdb
+c:\users\julien\documents\visual studio 2013\Projects\VehicleInheritance _HeckJulien\VehicleInheritance _HeckJulien\obj\Debug\VehicleInheritance _HeckJulien.csprojResolveAssemblyReference.cache
+c:\users\julien\documents\visual studio 2013\Projects\VehicleInheritance _HeckJulien\VehicleInheritance _HeckJulien\obj\Debug\VehicleInheritance _HeckJulien.exe
+c:\users\julien\documents\visual studio 2013\Projects\VehicleInheritance _HeckJulien\VehicleInheritance _HeckJulien\obj\Debug\VehicleInheritance _HeckJulien.pdb

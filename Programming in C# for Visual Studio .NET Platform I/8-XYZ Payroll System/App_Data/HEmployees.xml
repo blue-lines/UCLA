@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+	<hemployees>
+		<hemployee>
+			<EmployeeID>Emp ID 3</EmployeeID>
+			<Firstname>Jill</Firstname>
+			<Lastname>Jones</Lastname>
+			<Hiredate>1/22/2011</Hiredate>
+			<Hourlywagerate>16.45</Hourlywagerate>
+			<Hoursworked>48</Hoursworked>
+		</hemployee>
+		<hemployee>
+			<EmployeeID>Emp ID 6</EmployeeID>
+			<Firstname>Are</Firstname>
+			<Lastname>Patel</Lastname>
+			<Hiredate>5/5/2009</Hiredate>
+			<Hourlywagerate>14.56</Hourlywagerate>
+			<Hoursworked>51</Hoursworked>
+		</hemployee>
+		<hemployee>
+			<EmployeeID>Emp ID 7</EmployeeID>
+			<Firstname>Susan</Firstname>
+			<Lastname>Chen</Lastname>
+			<Hiredate>3/1/2003</Hiredate>
+			<Hourlywagerate>25.43</Hourlywagerate>
+			<Hoursworked>46</Hoursworked>
+		</hemployee>
+</hemployees>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+	<semployees>
+		<semployee>
+			<EmployeeID>Emp ID 1</EmployeeID>
+			<Firstname>Sam</Firstname>
+			<Lastname>Smith</Lastname>
+			<Hiredate>1/2/2007</Hiredate>
+			<Weeklysalary>1800</Weeklysalary>
+		</semployee>
+		<semployee>
+			<EmployeeID>Emp ID 2</EmployeeID>
+			<Firstname>Jose</Firstname>
+			<Lastname>Gonzalez</Lastname>
+			<Hiredate>3/14/2003</Hiredate>
+			<Weeklysalary>2300</Weeklysalary>
+		</semployee>
+		<semployee>
+			<EmployeeID>Emp ID 5</EmployeeID>
+			<Firstname>Joan</Firstname>
+			<Lastname>Smith</Lastname>
+			<Hiredate>3/12/2008</Hiredate>
+			<Weeklysalary>1750</Weeklysalary>
+		</semployee>
+</semployees>
